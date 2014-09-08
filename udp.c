@@ -1,8 +1,9 @@
 /*
 
  Copyright (c) 2013, 2014    
-	
-	CROW - Cybersecurity Researchers of Waikato
+
+Authors: Ryan K.L. Ko, Alan Y.S. Tan, Ting Gao
+CROW - Cybersecurity Researchers of Waikato
 
  All rights reserved.
 
